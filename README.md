@@ -26,7 +26,7 @@ This is a 2D interactive living room simulation developed using C++ and OpenGL. 
 - ESC → Exit  
 
 ## 📷 Output
-![Output](images/output1.png)  
+![Output](images/output1.png)
 ![Output](images/output2.png)
 
 ## 📄 Project Report
