@@ -26,11 +26,11 @@ This is a 2D interactive living room simulation developed using C++ and OpenGL. 
 - ESC → Exit  
 
 ## 📷 Output
-![Output](images/output1.png)
-![Output](images/output2.png)
+![Output](output1.png)  
+![Output](output2.png)
 
 ## 📄 Project Report
-[Download Report](report/CG_Project_Report.pdf)
+[Download Report](CG_Project_Report.pdf)
 
 ## 👥 Team Members
 - Romana Akter Runa  
